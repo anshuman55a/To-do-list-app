@@ -27,3 +27,9 @@
    ```bash
    mvn spring-boot:run
 The backend should now be running on http://localhost:8080.
+
+
+![image](https://github.com/anshuman55a/To-do-list-app-backend/assets/99091710/8965008a-1a9b-4ba1-aa6f-4e26cef9457f)
+
+![image](https://github.com/anshuman55a/To-do-list-app-backend/assets/99091710/f284baff-39b9-4947-9b11-159b6ee97317)
+
